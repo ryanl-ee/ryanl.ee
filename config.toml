@@ -1,0 +1,32 @@
+baseURL = "https://ryanl.ee/"
+languageCode = "en-us"
+title = "ryanl.ee"
+theme = "beautifulhugo"
+publishDir = "docs"
+
+[Params]
+  homeTitle = "."
+  mainSections = ["post"]
+
+  [[menu.main]]
+    name = "Blog"
+    url = ""
+    weight = 1
+
+  [[menu.main]]
+    name = "Howdy"
+    url = "page/howdy/"
+    weight = 3
+
+  [[menu.main]]
+    name = "Tags"
+    url = "tags"
+    weight = 3
+
+  [Author]
+    name = "Ryan Lee"
+    website = "ryanl.ee"
+    email = "ryan@ryanl.ee"
+    github = "ryanl-ee"
+    keybase = "ryanericlee"
+    spotify = "corsivalee"
