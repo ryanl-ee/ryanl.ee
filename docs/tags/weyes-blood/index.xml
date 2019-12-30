@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weyes Blood on ryanl.ee</title>
+    <link>https://ryanl.ee/tags/weyes-blood/</link>
+    <description>Recent content in Weyes Blood on ryanl.ee</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>ryan@ryanl.ee (Ryan Lee)</managingEditor>
+    <webMaster>ryan@ryanl.ee (Ryan Lee)</webMaster>
+    <lastBuildDate>Mon, 18 Nov 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ryanl.ee/tags/weyes-blood/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Weyes Blood - Titanic Rising</title>
+      <link>https://ryanl.ee/post/weyes-blood-titanic-rising/</link>
+      <pubDate>Mon, 18 Nov 2019 00:00:00 +0000</pubDate>
+      <author>ryan@ryanl.ee (Ryan Lee)</author>
+      <guid>https://ryanl.ee/post/weyes-blood-titanic-rising/</guid>
+      <description>A lot&#39;s gonna change
+ A lot&#39;s gonna change.
+Favorite Tracks: A Lot&#39;s Gonna Change, Something to Believe</description>
+    </item>
+    
+  </channel>
+</rss>

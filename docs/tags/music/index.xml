@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ryanl.ee</title>
-    <link>https://ryanl.ee/</link>
-    <description>Recent content on ryanl.ee</description>
+    <title>music on ryanl.ee</title>
+    <link>https://ryanl.ee/tags/music/</link>
+    <description>Recent content in music on ryanl.ee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <managingEditor>ryan@ryanl.ee (Ryan Lee)</managingEditor>
     <webMaster>ryan@ryanl.ee (Ryan Lee)</webMaster>
     <lastBuildDate>Mon, 30 Dec 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://ryanl.ee/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ryanl.ee/tags/music/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -117,17 +117,6 @@ Favorite tracks: Perihelion, Venusian 2, Self-Immolate, Hell</description>
       <description>You like D&amp;amp;D, Audrey Hepburn, Fangoria, Harry Houdini, and croquet. You can&#39;t swim, you can&#39;t dance, and you don&#39;t know karate. Face it, you&#39;re never gonna make it.
  It&#39;s a damn fun album. You people remember fun, right?
 Favorite tracks: Helena, To the End, I&#39;m Not Okay (I Promise), Thank You for the Venom</description>
-    </item>
-    
-    <item>
-      <title>Howdy</title>
-      <link>https://ryanl.ee/page/howdy/</link>
-      <pubDate>Wed, 06 Jun 0666 06:06:06 -0606</pubDate>
-      <author>ryan@ryanl.ee (Ryan Lee)</author>
-      <guid>https://ryanl.ee/page/howdy/</guid>
-      <description>I&#39;m Ryan.
-I like stuff. I&#39;ll post stuff I like here.
- Albums I&#39;ve listened to all the way through a bunch of times. You know when you can hear the next song on an album playing before the last one has even finished? Albums like that. SRE/DevOps philosophy/Cloud Tech Urban Agriculture Indie Theatre Chicago TTRPGs Witches  </description>
     </item>
     
   </channel>
