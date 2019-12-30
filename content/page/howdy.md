@@ -12,5 +12,7 @@ I like stuff. I'll post stuff I like here.
 - Urban Agriculture
 - Indie Theatre
 - Chicago
+- Recipes
+- Cocktails
 - TTRPGs
 - Witches
